@@ -131,6 +131,13 @@ The algorithm uses the following approach:
 A fitness of 1.0 means zero conflicts (perfect timetable).
 
 ---
+## Contributors
+
+- [Aastha](https://github.com/AasthathecoderX)
+- [Niveditha](https://github.com/marvelcodeX)
+
+
+---
 
 ## Demo Images
 
